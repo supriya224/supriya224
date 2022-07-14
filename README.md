@@ -1,12 +1,6 @@
 ## नमस्ते 🙏, I'm supriya Maurya
-## NEXT JS, REACTJS & MERN Stack Developer 👨‍💻
-# Narendra&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
-
-  <a href="https://narendra224.vercel.app/home">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Earth.gif" />
-    <b>My Personal Website</b>
-</a>
-&nbsp;
+## Student 👨‍💻
+# Supriya&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
 </br>
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
@@ -17,7 +11,8 @@
 
 <p>
   <em>
-    I have graduate with computer science from <b>Sagar Institute of Science and technology</b> <br>
+    I have completed diploma with Information Technology from <b>Government Girls Polytechnic, Lucknow</b> <br>
+    I am persuing graduation  with Information Technology from <b>V.B.S. Purvanchal University, Jaunpur</b> <br>
     24 years of living a comical life! <br>
     A passionate Web Developer with 3 years experience in Nextjs (typescript),React & Redux  internship 7 month of experience in  Web Development<br>
     <b>A friendly Neighbourhood Web Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
@@ -81,17 +76,17 @@ class Skills extends SoftwareDeveloper {
    [![Redux](https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)](https://github.com/narendram224)
    [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/narendram224)
    [![React-router](https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465)](https://github.com/narendram224)
-   [![Mterial-UI]( https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/narendram224)
-  [![Styled-component]( https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/narendram224)
+   [![Mterial-UI]( https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/supriya224)
+  [![Styled-component]( https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/supriya224)
    
 
-  [![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/narendram224)
-  [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/narendram224)
+  [![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/supriya224)
+  [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/supriya224)
   
   
 
   **NOSQL:**
-  [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/narendram224)
+  [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/supriya224)
   
 
 ### Tools
@@ -99,47 +94,28 @@ class Skills extends SoftwareDeveloper {
 **Software Development:**
 
  <img alt="GIF" src="https://pbs.twimg.com/profile_images/1285860990056194049/10ydbKG1_400x400.jpg" width="40vw" height="40vh" style="display:inline;" />
-
-
-[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")](https://github.com/narendram224)
-[![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/Quananhle "Docker")](https://github.com/narendram224)
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/narendram224)
-[![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle "Android Studio" )](https://github.com/narendram224)
-
-
-
-
-
-**SDLC**
-[![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/narendram224) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/narendram224) 
-
-**CLOUD**
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/narendram224)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/narendram224) 
-
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/supriya224)
 
 
 **Software Engineering:**
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/narendram224)
 
-
-
 **Version Control:**
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/narendram224)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/narendram224) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/narendram224)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/supriya224) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/supriya224)
 
 <sup>*click on some badges may redirect you to the corresponding repositories</sup>
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/narendra-kumar-maurya-69303a165/">
-    <img align="left" alt="Narendra Maurya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/supriya-maurya-34a85b1a7/">
+    <img align="left" alt="Supriya Maurya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/11711849/narendra-maurya">
+  <a href="https://stackoverflow.com/users/16771918/supriya-maurya">
     <img align="left" alt="Satyam Goyal | Instagram"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:narendram224@gmail.com">
+  <a href="mailto:supriyam224@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
@@ -148,4 +124,4 @@ class Skills extends SoftwareDeveloper {
 
 
 
-## ⭐️ From [Narendra](https://github.com/narendram224)
+## ⭐️ From [Supriya](https://github.com/supriya224)
