@@ -14,7 +14,7 @@
     I have completed diploma with Information Technology from <b>Government Girls Polytechnic, Lucknow</b> <br>
     I am persuing graduation  with Information Technology from <b>V.B.S. Purvanchal University, Jaunpur</b> <br>
     24 years of living a comical life! <br>
-    A passionate Web Developer with 3 years experience in Nextjs (typescript),React & Redux  internship 7 month of experience in  Web Development<br>
+   I am a student. I have no experience but I have Advance Knowledge In latest Technology<br>
     <b>A friendly Neighbourhood Web Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px" height="18px">and 
@@ -37,21 +37,18 @@ import WebDevloper from 'India';
 import SoftDevloper from 'Javascript';
 
 class Bio extends WebDevloper {
-  name     = 'Narendra Maurya';
-  title    = 'Web Developer';
-  location = 'Bangalore,India';
+  name     = 'Supriya Maurya';
+  title    = 'Student';
+  location = 'Mirzapur, UP';
 }
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'TypeScript','Css','Html'];
   frameworks = ['React', 'React Native', 'Angular', 'Bootstrap'];
   react_library=["Redux","Redux-thunk","redux-devtools-extenstion","react-devtools-extenstions","react-router-dom"];
-  css_framework=["MaterialUI","bootStrap","Scss","Styled-components","ANTD"]
-  backEnd: ["nodejs", "express", "Jwt"],
+  css_framework=["MaterialUI","bootStrap","Scss","Styled-components"]
+  backEnd: ["nodejs", "express"],
   databases  = ['MongoDB'];
-  architecture:["Serverless Architecture", "microservices",  "Single page applications"];
-  devOps=["AWS", "Nginx", "Jenkins","Docker"];
-  mobileApp= ["ionic","react-native"];
   reusable_optimized_component=["Atomic Design principle","Styled-components","Memo hoc","Atomic css","React-devtools","Redux-devtools"]
   
 }
@@ -63,19 +60,19 @@ class Skills extends SoftwareDeveloper {
 ### Languages<sup>*</sup>
 
   **JavaScript**: 
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/narendram224)](https://github.com/narendram224)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/narendram224)](https://github.com/narendram224) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/narendram224)](https://github.com/narendram224) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/narendram224)](https://github.com/narendram224) 
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/narendram224)](https://github.com/supriya224)
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/narendram224)](https://github.com/supriya224) 
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/narendram224)](https://github.com/supriya224) 
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/supriya224)](https://github.com/supriya224) 
   
   **React:**
   
   
    <img alt="GIF" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" width="50vw" height="40vh" style="display:inline;" />
      
-   [![Redux](https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)](https://github.com/narendram224)
-   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/narendram224)
-   [![React-router](https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465)](https://github.com/narendram224)
+   [![Redux](https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)](https://github.com/supriya224)
+   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/supriya224)
+   [![React-router](https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465)](https://github.com/supriya224)
    [![Mterial-UI]( https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/supriya224)
   [![Styled-component]( https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/supriya224)
    
@@ -98,7 +95,7 @@ class Skills extends SoftwareDeveloper {
 
 
 **Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/narendram224)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/supriya224)
 
 **Version Control:**
 
