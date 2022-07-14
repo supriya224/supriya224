@@ -88,7 +88,7 @@ class Skills extends SoftwareDeveloper {
 **Software Development:**
 
  <img alt="GIF" src="https://pbs.twimg.com/profile_images/1285860990056194049/10ydbKG1_400x400.jpg" width="40vw" height="40vh" style="display:inline;" />
-)
+
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/supriya224)
 
 
