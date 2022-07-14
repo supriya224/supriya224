@@ -19,7 +19,7 @@
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px" height="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" height="20px"> <br>
-    I Love <b>Web and mobile Development</b> <br>
+    I Love <b>Web Development</b> <br>
   </em>  
 </p>
 
