@@ -44,7 +44,7 @@ class Bio extends WebDevloper {
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'TypeScript','Css','Html'];
-  frameworks = ['React', 'React Native', 'Angular', 'Bootstrap'];
+  frameworks = ['React', 'Bootstrap'];
   react_library=["Redux","Redux-thunk","redux-devtools-extenstion","react-devtools-extenstions","react-router-dom"];
   css_framework=["MaterialUI","bootStrap","Scss","Styled-components"]
   backEnd: ["nodejs", "express"],
