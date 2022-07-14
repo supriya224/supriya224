@@ -67,9 +67,6 @@ class Skills extends SoftwareDeveloper {
   
   **React:**
   
-  
-   <img alt="GIF" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" width="50vw" height="40vh" style="display:inline;" />
-     
    [![Redux](https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)](https://github.com/supriya224)
    [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/supriya224)
    [![React-router](https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465)](https://github.com/supriya224)
@@ -91,7 +88,9 @@ class Skills extends SoftwareDeveloper {
 **Software Development:**
 
  <img alt="GIF" src="https://pbs.twimg.com/profile_images/1285860990056194049/10ydbKG1_400x400.jpg" width="40vw" height="40vh" style="display:inline;" />
+)
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/supriya224)
+
 
 
 **Software Engineering:**
