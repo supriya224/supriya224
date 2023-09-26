@@ -12,7 +12,7 @@
 <p>
   <em>
     I have completed diploma with Information Technology from <b>Government Girls Polytechnic, Lucknow</b> <br>
-    I am persuing graduation  with Information Technology from <b>V.B.S. Purvanchal University, Jaunpur</b> <br>
+    I have completed my graduation with Information Technology from <b>V.B.S. Purvanchal University, Jaunpur</b> <br>
     24 years of living a comical life! <br>
    I am a student. I have no experience but I have Advance Knowledge In latest Technology<br>
     <b>A friendly Neighbourhood Web Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
