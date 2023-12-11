@@ -1,5 +1,5 @@
 ## नमस्ते 🙏, I'm supriya Maurya
-## Student 👨‍💻
+## Aspiring Frontend developer 👨‍💻
 # Supriya&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
 </br>
 <!-- 
@@ -14,7 +14,7 @@
     I have completed diploma with Information Technology from <b>Government Girls Polytechnic, Lucknow in 2020</b> <br>
     I have completed my graduation with Information Technology from <b>V.B.S. Purvanchal University, Jaunpur in 2023 </b> <br>
     24 years of living a comical life! <br>
-   I am a student. I have no experience but I have Advance Knowledge In latest Technology<br>
+  As Aspiring Frontend developer, I have no experience but I have Advance Knowledge In latest Technology<br>
     <b>A friendly Neighbourhood frontend Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px" height="18px">and 
@@ -38,8 +38,8 @@ import SoftDevloper from 'Javascript';
 
 class Bio extends WebDevloper {
   name     = 'Supriya Maurya';
-  title    = 'Student';
-  location = 'Mirzapur, UP';
+  title    = 'Aspiring Frontend developer';
+  location = 'Bangalore, Karnataka';
 }
 
 class Skills extends SoftwareDeveloper {
