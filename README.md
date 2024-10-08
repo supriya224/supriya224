@@ -1,5 +1,5 @@
 ## नमस्ते 🙏, I'm supriya Maurya
-## Aspiring Frontend developer 👨‍💻  [my-portfolio](https://supriya224.github.io/my-portfolio)
+## Aspiring Frontend developer 👨‍💻  [https://my-portfolio-izav.vercel.app/my-portfolio)
 # Supriya&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
 </br>
 <!-- 
