@@ -31,11 +31,6 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" height="20vh" /> I Love **Learning** and **explore new tools and technologies** 🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" height="20vh" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
-### 🚀 Featured Projects
-- **[Task Management App](#)**: A Kanban-style task manager built with React and Redux for efficient task tracking.  
-- **[E-commerce Platform](#)**: An online store featuring dynamic product filters, cart management, and secure payments.  
-- **[Weather App](#)**: A weather forecasting app using real-time API integration and responsive design.  
-
 ```js
 import WebDevloper from 'India';
 import SoftDevloper from 'Javascript';
