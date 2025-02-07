@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supriya Maurya</h1>
 
 <p align="center">
-  <i>A passionate Software Developer Intern based in Bengaluru, India 🚀</i>
+  <i>A passionate UI/UX Designer transitioning from Software Development, based in Bengaluru, India 🎨🚀</i>
     <a href="https://my-portfolio-izav.vercel.app/my-portfolio" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" /></a>
 </p>
 
@@ -14,11 +14,12 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
-### 🚀 About Me:
-- 🌱 I'm currently honing my skills in **AWS**, **MongoDB**, and **Page Performance Optimization**.
-- 💻 I enjoy building **responsive**, **user-centric web applications** with a focus on **SEO** and **Lighthouse Score optimization**.
-- ✨ I specialize in crafting interactive user interfaces using **React**, **Next.js**, and **Framer Motion**.
-- 📚 I believe in **continuous learning** and improving my expertise in frontend and backend development.
+### 🎨 About Me:
+- 🌱 Transitioning into **UI/UX Design**, mastering **Figma, Design Thinking, UX Laws, and Usability Testing**.
+- 💡 Passionate about crafting **intuitive, user-friendly, and visually compelling** digital experiences.
+- ✨ Skilled in **Wireframing, Prototyping, User Research, and Accessibility-focused design**.
+- 📚 Leveraging my **front-end development background** to create **developer-friendly and scalable designs**.
+- 🚀 Currently exploring **Interaction Design, Micro-Animations, and User Psychology**.
 
 ---
 
@@ -58,6 +59,14 @@
 
 ---
 
+### 🌟 UI/UX Achievements:
+- 🎨 Designed **user-friendly, responsive, and accessible interfaces** using **Figma** and **Framer Motion**.
+- 🛠️ Developed **interactive prototypes and wireframes** to improve usability.
+- 📈 Conducted **usability testing & research** to enhance user engagement and experience.
+- 🚀 Implemented **Atomic Design principles** to maintain design consistency and scalability.
+  
+---
+
 ### 🌐 Connect with Me:
 <div align="left">
   <a href="https://www.linkedin.com/in/supriya-maurya-34a85b1a7/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
@@ -70,5 +79,3 @@
 
 ---
 
-### 🐍 Fun Animation:
-<img src="https://raw.githubusercontent.com/supriyam224/supriyam224/output/snake.svg" alt="Snake animation" />
